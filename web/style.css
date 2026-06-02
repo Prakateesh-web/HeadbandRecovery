@@ -1,0 +1,5 @@
+body { background: #222; color: #eee; font-family: sans-serif; margin:0; }
+#tabs { background: #333; padding:10px; }
+#tabs button { margin-right:5px; }
+.tab { display:none; padding:20px; }
+.tab.active { display:block; }
